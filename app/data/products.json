@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Shoes",
+    "description": "Comfortable and stylish Nike shoes.",
+    "price": 99.99,
+    "imageURL": "/assets/products/nike-shoes.png",
+    "inStock": true,
+    "category": "Footwear"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Jordan Orange",
+    "description": "Limited edition Nike Air Jordan in orange.",
+    "price": 129.99,
+    "imageURL": "/assets/products/NikeAirJOrdonOrange.png",
+    "inStock": true,
+    "category": "Basketball"
+  },
+  {
+    "id": 3,
+    "name": "Nike Air Jordan Single Blue",
+    "description": "Classic Nike Air Jordan in single blue.",
+    "price": 119.99,
+    "imageURL": "/assets/products/NikeAirJordonSingleBlue.png",
+    "inStock": false,
+    "category": "Basketball"
+  },
+  {
+    "id": 4,
+    "name": "Nike Air Jordan Single Red",
+    "description": "Bright orange Nike Air Jordan sneakers.",
+    "price": 139.99,
+    "imageURL": "/assets/products/NikeAirJordonSingleOrange.png",
+    "inStock": true,
+    "category": "Basketball"
+  },
+  {
+    "id": 5,
+    "name": "Black and White Flip-Flops",
+    "description": "Sleek and comfortable black and white flip-flops with a cushioned footbed and durable rubber sole",
+    "price": 19.99,
+    "inStock": true,
+    "imageURL": "/assets/products/product-slippers.png",
+    "category": "Footwear"
+  },
+  {
+    "id": 6,
+    "name": "Nike Air Jordan White Red",
+    "description": "Classic white and red Nike Air Jordan sneakers.",
+    "price": 119.99,
+    "imageURL": "/assets/products/NikeAirJOrdonWhiteRed.png",
+    "inStock": false,
+    "category": "Basketball"
+  },
+  {
+    "id": 7,
+    "name": "Nike Air Max",
+    "description": "Comfortable Nike Air Max sneakers.",
+    "price": 129.99,
+    "imageURL": "/assets/products/NikeAirMax.png",
+    "inStock": true,
+    "category": "Running"
+  },
+  {
+    "id": 8,
+    "name": "Nike Wildhorse",
+    "description": "Durable Nike Wildhorse shoes for outdoor activities.",
+    "price": 139.99,
+    "imageURL": "/assets/products/NikeWildhorse.png",
+    "inStock": true,
+    "category": "Running"
+  },
+  {
+    "id": 9,
+    "name": "Adidas Football",
+    "description": "High-quality Adidas football for matches.",
+    "price": 79.99,
+    "imageURL": "/assets/products/Adidas_Football.png",
+    "inStock": true,
+    "category": "Sports"
+  },
+  {
+    "id": 10,
+    "name": "Nike Basketball Shoe Green Black",
+    "description": "High-performance Nike basketball shoes featuring a striking green and black design, offering superior support and traction on the court.",
+    "price": 129.99,
+    "inStock": true,
+    "imageURL": "/assets/products/NikeBasketballShoeGreenBlack.png",
+    "category": "Basketball"
+  },
+  {
+    "id": 11,
+    "name": "Skate Sneakers Vans",
+    "description": "Stylish and durable Vans sneakers designed for skateboarding.",
+    "price": 89.99,
+    "imageURL": "/assets/products/SkateSneakersVans.png",
+    "inStock": true,
+    "category": "Footwear"
+  },
+  {
+    "id": 12,
+    "name": "Shoes Adidas Purple Women",
+    "description": "Elegant and comfortable Adidas shoes in purple for women.",
+    "price": 109.99,
+    "imageURL": "/assets/products/ShoesAdidasPurpleWomer.png",
+    "inStock": true,
+    "category": "Footwear"
+  },
+  {
+    "id": 13,
+    "name": "Nike Wildhorse",
+    "description": "Durable Nike Wildhorse shoes for outdoor activities.",
+    "price": 139.99,
+    "imageURL": "/assets/products/NikeWildhorse.png",
+    "inStock": true,
+    "category": "Running"
+  },
+  {
+    "id": 14,
+    "name": "Nike Air Max Sneakers Running",
+    "description": "Comfortable Nike Air Max sneakers designed for running.",
+    "price": 129.99,
+    "imageURL": "/assets/products/NikeAirMaxSneakersRunning.png",
+    "inStock": true,
+    "category": "Running"
+  },
+  {
+    "id": 15,
+    "name": "Ballon Official Mundial Qatar 2022",
+    "description": "Official football for the 2022 FIFA World Cup in Qatar.",
+    "price": 99.99,
+    "imageURL": "/assets/products/ballonofficialmundialqtar2022.png",
+    "inStock": true,
+    "category": "Sports"
+  },
+  {
+    "id": 16,
+    "name": "Adidas Yeezy High-Heeled Brown",
+    "description": "Trendy high-heeled Adidas Yeezy shoes in brown.",
+    "price": 159.99,
+    "imageURL": "/assets/products/AdidasYeezyHigh-heeledBrown.png",
+    "inStock": false,
+    "category": "Footwear"
+  },
+  {
+    "id": 17,
+    "name": "Adidas Yeezy White 2.0",
+    "description": "Classic Adidas Yeezy sneakers in white 2.0.",
+    "price": 129.99,
+    "imageURL": "/assets/products/AdidasYeezyWhite2.0.png",
+    "inStock": true,
+    "category": "Footwear"
+  },
+  {
+    "id": 18,
+    "name": "Air Jordan 4 Blue",
+    "description": "Iconic Air Jordan 4 sneakers in a striking blue color.",
+    "price": 149.99,
+    "imageURL": "/assets/products/AirJordan4Blue.png",
+    "inStock": true,
+    "category": "Basketball"
+  },
+  {
+    "id": 19,
+    "name": "Jordan 4 White",
+    "description": "Classic Jordan 4 sneakers in white.",
+    "price": 139.99,
+    "imageURL": "/assets/products/Jordan4White.png",
+    "inStock": false,
+    "category": "Basketball"
+  },
+  {
+    "id": 20,
+    "name": "Jordan 6 White Basic",
+    "description": "Simple and elegant Jordan 6 sneakers in white.",
+    "price": 129.99,
+    "imageURL": "/assets/products/Jordan6WhiteBasic.png",
+    "inStock": true,
+    "category": "Basketball"
+  }
+]
